@@ -1,6 +1,6 @@
 class PantallaProximosEstrenos {
-    constructor(pantallaEstrenos) {
-        this.pantallaEstrenos = pantallaEstrenos;
+    constructor() {
+        this.pantallaEstrenos;
     }
 
     dibujarPantalla() {

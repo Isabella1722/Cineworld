@@ -1,6 +1,6 @@
 class PantallaSilla {
-    constructor(pantallaSilla) {
-        this.pantallaSilla = pantallaSilla;
+    constructor() {
+        this.pantallaSilla;
     }
 
     dibujarPantalla() {

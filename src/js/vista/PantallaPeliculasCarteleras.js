@@ -1,6 +1,6 @@
 class PantallaPeliculasCarteleras {
-    constructor(pantallaCartelera) {
-        this.pantallaCartelera = pantallaCartelera;
+    constructor() {
+        this.pantallaCartelera;
     }
 
     dibujarPantalla() {

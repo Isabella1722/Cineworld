@@ -1,11 +1,9 @@
 class PantallaInicioCiudad {
-    constructor(pantallaInicioCiudad) {
-        this.pantallaInicioCiudad = pantallaInicioCiudad;
+    constructor() {
+        this.pantallaInicio;
     }
 
+    dibujarPantalla() {
 
-}
-
-function dibujarPantalla() {
-
+    }
 }

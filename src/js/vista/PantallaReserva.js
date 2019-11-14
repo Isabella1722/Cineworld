@@ -1,6 +1,6 @@
 class PantallaReserva {
-    constructor(pantallaReserva) {
-        this.pantallaReserva = pantallaReserva;
+    constructor() {
+        this.pantallaReserva;
     }
 
     dibujarPantalla() {

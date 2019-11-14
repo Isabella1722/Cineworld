@@ -1,11 +1,9 @@
-class PantallaInformacion{
-    constructor(){
-this.pantallaInformacion=pantallaInformacion;
+class PantallaInformacion {
+    constructor() {
+        this.pantallaInformacion;
     }
 
+    dibujarPantalla() {
 
-}
-
-function dibujarPantalla() {
-        
+    }
 }
