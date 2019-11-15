@@ -20,12 +20,12 @@
 .pelicula {
     margin-top: 200px;
     margin-left: 100px;
-    width: 200px;
-    height: 100px;
+    width: 17%;
+    height: 18%;
     border: 2px solid red;
     display: flex;
     background-size: cover;
-    background-image: url(http://www.ucaldas.edu.co/images/tmp/Javier_Aguirre_Ramos.jpg);
+    /*background-image: url(http://www.ucaldas.edu.co/images/tmp/Javier_Aguirre_Ramos.jpg);*/
 
 }
 
