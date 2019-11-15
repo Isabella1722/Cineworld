@@ -1,53 +1,64 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
-body{
-background: rgb(243, 243, 243);
+.barra {
+    top: 0;
+    position: fixed;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    align-items: center;
+    flex-grow: 0;
+    z-index: 1;
+}
+
+.pelicula {
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+    display: flex;
+    background-size: cover;
+    background-image: url(http://www.ucaldas.edu.co/images/tmp/Javier_Aguirre_Ramos.jpg);
 
 }
 
-header{
-    background: green;
-}
-
-main{
 
 
-
-}
-
-footer{
-
-
-}
-
-.barra{
-position: absolute;
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
-width: 100%;
-height: 100px;
-display: flex;
-flex-flow: row wrap;
-align-content: center;
-
+.contenido {
+    
+    
+    flex-grow: 1;
+    margin-left: -100px;
+    flex-basis: baseline;
+    background: lightcyan;
+    display: flex;
+    flex-flow: row wrap;
+    height: auto;
+    justify-content: center;
 
 }
 
+.nav-a {
+
+    margin-left: 40px;
+    height: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-a:hover {
+    text-decoration: underline
+}
 
 .logo {
-
-width: 80px;
-
-height: auto;
-margin-left: 20px;
-
-
-
+    width: 80px;
+    height: auto;
+    margin-left: 20px;
 }
-
-
-
-
-
