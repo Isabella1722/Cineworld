@@ -15,9 +15,11 @@
     align-items: center;
     flex-grow: 0;
     z-index: 1;
+    font-family: 'Roboto', sans-serif;
 }
 
 .pelicula {
+    
     margin-top: 10%;
     margin-left: 5%;
     width: 17%;
@@ -27,6 +29,18 @@
     background-size: cover;
     /*background-image: url(http://www.ucaldas.edu.co/images/tmp/Javier_Aguirre_Ramos.jpg);*/
 
+}
+.pelicula div{
+
+    background:red;
+    align-self: auto;
+    display:flex;
+    margin-left: 0;
+    width: 100%;
+    height:10%;
+    text-align: center;
+    
+    margin-top: -2%;
 }
 
 
@@ -64,13 +78,14 @@
 }
 
 .barraC{
+    font-family: 'Roboto', sans-serif;
     width: 50%;
     
     box-sizing: border-box;
     color:white;
     display: block;
     font-size: 14px;
-    font-family: 'Times New Roman', Times, serif;
+   
     margin-top: 10%;
     margin-right: 70%;
     margin-left: 33%;
@@ -85,7 +100,7 @@
     color:white;
     display: block;
     font-size: 14px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     margin-top: 10%;
     margin-right: 47%;
     background: linear-gradient(90deg, rgba(102,0,9,1) 0%, rgba(254,99,99,1) 22%, rgba(255,0,0,1) 100%);
@@ -113,5 +128,29 @@ footer{
     margin-top: 10%;
     color:white;
     font-size: 10px;
+    font-weight: lighter;
     font-family: 'Roboto', sans-serif;
 }
+
+.ver{
+   width: 100%; 
+}
+.ver span{
+    background-color:red;
+    color: white;
+    width: 100%;
+    height: 5px;
+    margin-top: 3%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.banner figure{
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 100%;
+    height: 100%;
+    margin-bottom: none;
+}
+
