@@ -240,9 +240,44 @@ footer{
     padding: 0%;
     display: flex;
 
- padding-bottom: 30%;
     
 }
 header{
     padding-bottom: 0%;
+}
+.asientos{
+    display: flex;
+    width: 100%;
+    background:white;
+    height: 100vh;
+    flex-wrap: wrap;
+    margin-top: none;
+    padding-bottom: 2%;
+}
+.asientos div{
+
+    width: 100px;
+    height: 100px;
+    margin-left: 10%;
+    background: rgb(0, 134, 223);
+    display: flex;
+   align-items: center;
+   margin-top: 5%;
+}
+.pantalla{
+    background: black;
+    width: 100%;
+    height: 250px;
+    margin-top: none;
+
+
+}
+.pantallatitulo{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    line-height:60px;
+    padding: 6% ;
+
+   
 }
