@@ -3,8 +3,7 @@
     padding: 0px;
 }
 
-html{
-
+html {
     width: 100%;
     height: 100%;
 }
@@ -22,11 +21,9 @@ html{
     flex-grow: 0;
     z-index: 1;
     font-family: 'Roboto', sans-serif;
-
 }
 
 .pelicula {
-    
     margin-top: 10%;
     margin-left: 5%;
     width: 17%;
@@ -35,26 +32,20 @@ html{
     display: flex;
     background-size: cover;
     /*background-image: url(http://www.ucaldas.edu.co/images/tmp/Javier_Aguirre_Ramos.jpg);*/
-
 }
-.pelicula div{
 
-    background:red;
+.pelicula div {
+    background: red;
     align-self: auto;
-    display:flex;
+    display: flex;
     margin-left: 0;
     width: 100%;
-    height:10%;
+    height: 10%;
     text-align: center;
-    
     margin-top: -2%;
 }
 
-
-
 .contenido {
-    
-    
     flex-grow: 1;
     margin-left: -100px;
     flex-basis: baseline;
@@ -63,11 +54,9 @@ html{
     flex-flow: row wrap;
     height: auto;
     justify-content: center;
-
 }
 
 .nav-a {
-
     margin-left: 40px;
     height: 10px;
     color: white;
@@ -84,88 +73,70 @@ html{
     margin-left: 20px;
 }
 
-.barraC{
+.barraC {
     font-family: 'Roboto', sans-serif;
     width: 50%;
-    
     box-sizing: border-box;
-    color:white;
+    color: white;
     display: block;
     font-size: 14px;
-   
     margin-top: 10%;
     margin-right: 70%;
     margin-left: 33%;
-    background: linear-gradient(90deg, rgba(102,0,9,1) 0%, rgba(254,99,99,1) 22%, rgba(255,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(102, 0, 9, 1) 0%, rgba(254, 99, 99, 1) 22%, rgba(255, 0, 0, 1) 100%);
     flex: none;
     background-color: lightcyan;
 }
 
-.tituloC{
-   
+.tituloC {
     box-sizing: border-box;
-    color:white;
+    color: white;
     display: block;
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     margin-top: 10%;
     margin-right: 47%;
-    background: linear-gradient(90deg, rgba(102,0,9,1) 0%, rgba(254,99,99,1) 22%, rgba(255,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(102, 0, 9, 1) 0%, rgba(254, 99, 99, 1) 22%, rgba(255, 0, 0, 1) 100%);
     flex: none;
     padding-top: 0%;
-    
-
 }
 
-footer{
-    
+footer {
     text-align: center;
     position: relative;
 }
 
-
-
-.pie div{
-  
+.pie div {
     width: 100%;
     height: 50%;
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
 
-.pie{
-
-    color:white;
+.pie {
+    color: white;
     font-size: 10px;
     font-weight: lighter;
     font-family: 'Roboto', sans-serif;
 }
 
-.ver{
-   width: 100%; 
-  
-   
-
+.ver {
+    width: 100%;
 }
-.ver span{
-    background-color:red;
+
+.ver span {
+    background-color: red;
     color: white;
     width: 100%;
     height: 5px;
     margin-top: 3%;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
-    line-height:45px;
+    line-height: 45px;
     margin-left: 90px;
-   
-
-   
-   
-
 }
 
-.banner figure{
+.banner figure {
     border: none;
-
     width: 100%;
     height: 100%;
     margin-bottom: none;
@@ -175,63 +146,66 @@ footer{
     width: 100vw;
 }
 
-.elBromas img{
+.elBromas img {
     margin-top: 1%;
     margin-left: 2%;
 }
-.tGuason{
+
+.tGuason {
     margin-top: 8%;
     margin-left: 2%;
     font-family: 'Roboto', sans-serif;
 }
 
-.elBromas{
+.elBromas {
     display: flex;
- flex-direction: row;
- padding-bottom: 10%;
+    flex-direction: row;
+    padding-bottom: 10%;
 }
+
 .infoGuason {
     font-family: 'Roboto', sans-serif;
     margin-left: 1%;
     margin-top: 1%;
-
-
 }
-.pieP{
+
+.pieP {
     margin-top: 20%;
 }
-.barraH{
+
+.barraH {
     font-family: 'Roboto', sans-serif;
     width: 34%;
-    height:30px ;
+    height: 30px;
     box-sizing: border-box;
-    color:white;
+    color: white;
     display: block;
     font-size: 14px;
     margin-left: 65%;
     margin-right: 1%;
     margin-top: 5px;
-    background: linear-gradient(90deg, rgba(102,0,9,1) 0%, rgba(254,99,99,1) 22%, rgba(255,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(102, 0, 9, 1) 0%, rgba(254, 99, 99, 1) 22%, rgba(255, 0, 0, 1) 100%);
     flex: none;
     display: flex;
     flex-direction: column;
 }
-.eleccion{
+
+.eleccion {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: 20px;
-
 }
-.horarios{
+
+.horarios {
     margin-left: 45%;
     margin-top: 5%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     color: black;
     list-style: none;
-
 }
-.tituloE{
+
+.tituloE {
     margin-top: 10%;
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -239,45 +213,112 @@ footer{
     flex-direction: column;
     padding: 0%;
     display: flex;
-
-    
 }
-header{
+
+header {
     padding-bottom: 0%;
 }
-.asientos{
+
+.asientos {
     display: flex;
     width: 100%;
-    background:white;
+    background: white;
     height: 100vh;
     flex-wrap: wrap;
     margin-top: none;
     padding-bottom: 2%;
 }
-.asientos div{
 
+.asientos div {
     width: 100px;
     height: 100px;
     margin-left: 10%;
     background: rgb(0, 134, 223);
     display: flex;
-   align-items: center;
-   margin-top: 5%;
+    align-items: center;
+    margin-top: 5%;
 }
-.pantalla{
+
+.pantalla {
     background: black;
     width: 100%;
     height: 250px;
     margin-top: none;
-
-
 }
-.pantallatitulo{
-    color:white;
+
+.pantallatitulo {
+    color: white;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    line-height:60px;
-    padding: 6% ;
+    line-height: 60px;
+    padding: 6%;
+}
 
-   
+.elegirCiudad {
+    height: 100%;
+    background-color: brown;
+}
+
+.tituloElige {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-top: 10%;
+    text-align: center;
+    height: 80%;
+}
+
+.pieInicio {
+    margin-top: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: white;
+    width: 100%;
+    height: 50%;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.contenedorGrande {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 15%;
+    text-align: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+.ciudades div {
+    margin-top: 7%;
+}
+
+.mainCiudades {
+    width: 100%;
+    height: 20%;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.ciudadElegida {
+    width: 100%;
+    height: 20%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.ciudad {
+    position: flex;
+    top: 80%;
+    right: 180%;
+    margin-left: 90%;
+    width: 100%;
+    height: 20%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: white;
 }
