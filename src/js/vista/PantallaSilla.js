@@ -52,7 +52,7 @@ for (let index = 0; index < colorSillas1.length; index++) {
 
     })
 }
-var sillaLocal=localStorage.getItem("letterPuesto");
+//var sillaLocal=localStorage.getItem("letterPuesto");
 
 /*this.colorSillas1.addEventListener("click", function () {
     colorSillas1.style.background = "#000000";
