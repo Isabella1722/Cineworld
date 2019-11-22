@@ -1,15 +1,17 @@
-class PantallaPeliculas {
-    constructor() {
-        this.pantallaCartelera;
-        this.titulo=titulo;
-        this.descripcion=descripcion;
-        this.duracion=duracion;
-        this.imagen=imagen;
+    //elemento general
+    const movieFrame = document.querySelectorAll('.movieFrame');
 
 
+
+    for (let index = 0; index < movieFrame.length; index++) {
+ 
+        movieFrame[index].addEventListener("click", function() {
+            
+            //guardo en el local storage
+            localStorage.setItem("index", index);
+            window.location.href = "peliculaBromas.html";
+            
+           
+        });
     }
 
- 
-
-
-}
