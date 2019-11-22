@@ -325,22 +325,32 @@ header {
 
 /*pelis*/
 .contenido{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 480px;
     display: flex;
     flex-direction: row
+    
 }
 
 .informacion{
-    margin-left: 200px;
-    margin-top: -280px;
+    margin-left: 0%;
+    
+    
    
+}
+
+.imagenPoster{
+margin-left: 0%;
 }
 
 #movie-info figure{
     margin: 0;
+    margin-left: 0%;
 }
 
 #movie-info figure img{
-
+    margin-left: 0%;
     margin-bottom: 40px; 
     
 }
@@ -350,12 +360,12 @@ header {
     height: 2px;
     border: 0px;
    
-    background-color: #FF2C1F;
+    background-color: rgb(18, 6, 87);
     }
 
 .title {
 
-    color: #FF2C1F;
+    color: rgb(18, 6, 87);
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     font-weight:  bold;
@@ -391,7 +401,7 @@ header {
   display: -webkit-flex;
   display: flex;
   
-  -webkit-flex-flow: row wrap;
+  
   justify-content: space-around;
   margin-bottom: 50px;
 }
