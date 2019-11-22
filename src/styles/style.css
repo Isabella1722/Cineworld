@@ -322,3 +322,118 @@ header {
     font-size: 25px;
     color: white;
 }
+
+/*pelis*/
+.contenido{
+    display: flex;
+    flex-direction: row
+}
+
+.informacion{
+    margin-left: 200px;
+    margin-top: -280px;
+   
+}
+
+#movie-info figure{
+    margin: 0;
+}
+
+#movie-info figure img{
+
+    margin-bottom: 40px; 
+    
+}
+
+#movie-info hr{
+    width: 98%;
+    height: 2px;
+    border: 0px;
+   
+    background-color: #FF2C1F;
+    }
+
+.title {
+
+    color: #FF2C1F;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight:  bold;
+    font-size: 18px;
+    line-height: 22px;
+
+}
+
+.text {
+
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 60px;
+
+
+
+
+}
+
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  line-height: 150px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.flex-item img{
+    margin-bottom: 20px;
+}
+
+.text-info-up{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.text-info-up p{
+    font-weight: normal;
+    margin-top: 0px;
+    font-size: 14px;
+  
+}
+
+
+
+.box-text{
+margin-bottom: 15px;
+padding-left: 3%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 22px;
+color: #FF2C1F;
+}
