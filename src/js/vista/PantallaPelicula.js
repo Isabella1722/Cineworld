@@ -1,5 +1,5 @@
     //elemento general
-    const movieFrame = document.querySelectorAll('.pelicula animated fadeInUp');
+    const movieFrame = document.querySelectorAll('.peli');
 
 
 

@@ -32,7 +32,7 @@ html {
     border: 2px solid red;
     display: flex;
     background-size: cover;
-    /*background-image: url(http://www.ucaldas.edu.co/images/tmp/Javier_Aguirre_Ramos.jpg);*/
+   
 }
 
 .pelicula div {
@@ -44,6 +44,7 @@ html {
     height: 10%;
     text-align: center;
     margin-top: -2%;
+    align-content: center;
 }
 
 .contenido {

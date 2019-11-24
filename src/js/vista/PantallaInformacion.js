@@ -77,7 +77,7 @@ var tituloL = document.querySelector(".titleMovie");
 var directorL = document.querySelector(".directorMovie");
 var repartoL = document.querySelector(".castingMovie");
 var sinopsisL = document.querySelector(".sinopsisMovie");
-var ulrImage = document.querySelector(".imagePoster");
+var ulrImage = document.querySelector(".imagenPoster");
 
 
 function local(tituloC, directorC, sinopsisC, urlC) {
