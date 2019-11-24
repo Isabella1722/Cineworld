@@ -85,8 +85,8 @@ function local(tituloC, directorC, sinopsisC, urlC) {
     tituloL.innerText = tituloC;
     directorL.innerHTML = directorC;
     sinopsisL.innerHTML = sinopsisC;
-    ulrImage.src = "./src/data/" +urlC;
-    console.log("./src/data/"+urlC);
+    ulrImage.src = "/data/" +urlC;
+    console.log("/data/"+urlC);
 
 }
 
