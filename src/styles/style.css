@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 
 html {
@@ -321,6 +322,7 @@ header {
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
     color: white;
+<<<<<<< HEAD
   
   
 }
@@ -442,4 +444,131 @@ header {
     font-size: 20px;
     color: black;
 
+=======
+}
+
+/*pelis*/
+.contenido{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 480px;
+    display: flex;
+    flex-direction: row
+    
+}
+
+.informacion{
+    margin-left: 0%;
+    
+    
+   
+}
+
+.imagenPoster{
+margin-left: 0%;
+}
+
+#movie-info figure{
+    margin: 0;
+    margin-left: 0%;
+}
+
+#movie-info figure img{
+    margin-left: 0%;
+    margin-bottom: 40px; 
+    
+}
+
+#movie-info hr{
+    width: 98%;
+    height: 2px;
+    border: 0px;
+   
+    background-color: rgb(18, 6, 87);
+    }
+
+.title {
+
+    color: rgb(18, 6, 87);
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight:  bold;
+    font-size: 18px;
+    line-height: 22px;
+
+}
+
+.text {
+
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 60px;
+
+
+
+
+}
+
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  line-height: 150px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.flex-item img{
+    margin-bottom: 20px;
+}
+
+.text-info-up{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.text-info-up p{
+    font-weight: normal;
+    margin-top: 0px;
+    font-size: 14px;
+  
+}
+
+
+
+.box-text{
+margin-bottom: 15px;
+padding-left: 3%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 22px;
+color: #FF2C1F;
+>>>>>>> 59ef907f24dc3f8f4d9151314f5328658dbcfc9a
 }
