@@ -13,19 +13,19 @@ var peliculas = {
         considerablemente
         convirtiéndolo en un
         brillante criminal.`,
-        "url": "joker-poster 2.png"
+        "url": "elbromas.jpg"
     },
     1: {
         "titulo": "chao",
         "director": "Todd Philips",
         "sinopsis": `Hola`,
-        "url": "poster-dedicada.jpg"
+        "url": "huerfanosdebrooklin.png"
     },
     2: {
         "titulo": "sueño",
         "director": "Todd Philips",
         "sinopsis": `Hola`,
-        "url": "poster-doctor.jpg"
+        "url": "doctor-sueño-.jpg"
     },
     3: {
         "titulo": "pdg",
@@ -40,13 +40,13 @@ var peliculas = {
         considerablemente
         convirtiéndolo en un
         brillante criminal.`,
-        "url": "poster-malefica.jpg"
+        "url": "infiernoenlasalturas.png"
     },
     4: {
         "titulo": "losk",
         "director": "Todd Philips",
         "sinopsis": `Hola`,
-        "url": "poster-terminator.jpg"
+        "url": "reflejossiniestros.png"
     }
 
 
