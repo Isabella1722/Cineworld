@@ -453,6 +453,7 @@ header {
 /*pantalla compra no tocaaaaar*/
 
 #content{
+    padding-top: 200px;
     display: flex;
     flex-direction: row
 }
@@ -464,7 +465,8 @@ header {
 }
 
 #movie-info figure{
-    margin: 0;
+    padding-top: 200px
+    
 }
 
 #movie-info figure img{

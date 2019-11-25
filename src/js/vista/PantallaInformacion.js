@@ -25,7 +25,7 @@ var peliculas = {
         "titulo": "sueño",
         "director": "Todd Philips",
         "sinopsis": `Hola`,
-        "url": "doctor-sueño-.jpg"
+        "url": "doctor-sueno-.jpg"
     },
     3: {
         "titulo": "pdg",
