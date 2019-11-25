@@ -1,7 +1,7 @@
 var peliculas = {
 
     0: {
-        "titulo": "Hola",
+        "titulo": "Guason",
         "director": "Todd Philips",
         "sinopsis": `La pasión de Arthur Fleck,
         un hombre ignorado por la
@@ -43,6 +43,54 @@ var peliculas = {
         "url": "infiernoenlasalturas.png"
     },
     4: {
+        "titulo": "losk",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+
+    5: {
+        "titulo": "keke",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+
+    6: {
+        "titulo": "losk",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+
+    7: {
+        "titulo": "losk",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+
+    8: {
+        "titulo": "losk",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+
+    9: {
+        "titulo": "losk",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+    10: {
+        "titulo": "losk",
+        "director": "Todd Philips",
+        "sinopsis": `Hola`,
+        "url": "reflejossiniestros.png"
+    },
+
+    11: {
         "titulo": "losk",
         "director": "Todd Philips",
         "sinopsis": `Hola`,
