@@ -103,41 +103,41 @@ var peliculas = {
     },
 
     11: {
-        "titulo": "losk",
-        "director": "Todd Philips",
-        "sinopsis": `Hola`,
-        "url": "reflejossiniestros.png"
+        "titulo": "Playmobil",
+        "director": " Lino DiSalvo",
+        "sinopsis": `La joven Marla (Anya Taylor-Joy) se embarca en una épica aventura para encontrar a su hermano pequeño Charlie (Gabriel Bateman). El único problema es que tanto ella como él han desaparecido de su realidad y se han adentrado en el asombroso mundo animado de Playmobil. Ahora miden 7,5 centímetros y tienen que convivir con vikingos, agentes secretos, vaqueros, monstruos gigantescos, robots, hadas mágicas, piratas, motoristas, ardillas y dinosaurios.`,
+        "url": "playmobil.png"
     },
 
     12: {
-        "titulo": "losk",
-        "director": "Todd Philips",
-        "sinopsis": `Hola`,
-        "url": "reflejossiniestros.png"
+        "titulo": "Jumanji",
+        "director": "Jake Kasdan",
+        "sinopsis": `En Jumanji: El Siguiente Nivel, la pandilla ha vuelto pero el juego ha cambiado. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperaban. Los jugadores tendrán que enfrentarse a partes desconocidas e inexploradas, desde los áridos desiertos hasta las montañas nevadas, para escapar del juego más peligroso del mundo.`,
+        "url": "jumanji.png"
     },
     13: {
-        "titulo": "losk",
+        "titulo": "Terror a 47 metros",
         "director": "Todd Philips",
-        "sinopsis": `Hola`,
-        "url": "reflejossiniestros.png"
+        "sinopsis": `El terror protagoniza esta película junto a un grupo de chicas en busca de aventuras en la costa de Recife, Brasil, que se enfrenta, sin quererlo, a mortíferos tiburones. Con la esperanza de disfrutar de algo más allá de un viaje turístico, deciden explorar unas ruinas submarinas ocultas, pero pronto descubren que el peligro las espera bajo las olas. Y es más fácil entrar al agua que salir de ella.`,
+        "url": "47metros.jpg"
     },
     14: {
-        "titulo": "losk",
-        "director": "Todd Philips",
-        "sinopsis": `Hola`,
-        "url": "reflejossiniestros.png"
+        "titulo": "Bob esponja",
+        "director": "Tim Hill",
+        "sinopsis": `Bob Esponja Pantalones Cuadrados, su mejor amigo Patricio Estrella y el resto de la pandilla de Fondo de Bikini, llegan a la pantalla grande en Bob Esponja: Al Rescate. Después de que la amada mascota de Bob Esponja, Gary el Caracol fuera secuescaracolada, él y Patricio se embarcan en una aventura épica hacia La Ciudad Pérdida de Atlantic City para regresar a Gary a casa. Mientras navegan por los deleites y peligros de esta hilarante misión de rescate, Bob Esponja y sus amigos prueban que no hay nada más fuerte que el poder de la amistad. `,
+        "url": "bobesponja.png"
     },
     15: {
-        "titulo": "losk",
-        "director": "Todd Philips",
-        "sinopsis": `Hola`,
-        "url": "reflejossiniestros.png"
+        "titulo": "Proyecto geminis",
+        "director": "Ang Lee",
+        "sinopsis": `Proyecto Géminis es un innovador thriller de acción protagonizado por Will Smith como Henry Brogan, un asesino de élite, que de repente es atacado y perseguido por un misterioso joven operario que aparentemente puede predecir cada uno de sus movimientos. La película está dirigida por el cineasta ganador del Premio de la Academia® Ang Lee y producida por los reconocidos productores Jerry Bruckheimer, David Ellison, Dana Goldberg y Don Granger. También protagonizan Mary Elizabeth Winstead, Clive Owen y Benedict Wong.`,
+        "url": "proyectogeminis.png"
     },
     16: {
-        "titulo": "losk",
+        "titulo": "Amigo de nadie",
         "director": "Todd Philips",
-        "sinopsis": `Hola`,
-        "url": "reflejossiniestros.png"
+        "sinopsis": `Julián  ha admirado  siempre el poder  de su abuelo.  Crece  junto a  su mejor amigo,  Felipe Molina, y un  grupo de muchachos destinados  a vivir con todas las ventajas de una clase privilegiada. Pero la violencia y una mentalidad mafiosa, transforman la sociedad, incluso los hábitos de Julián y sus amigos.  Sus juegos con armas, diversiones aparentemente inocuas, se convierten  en pesadilla colectiva.  `,
+        "url": "amigodenadie.png"
     }
 
 
